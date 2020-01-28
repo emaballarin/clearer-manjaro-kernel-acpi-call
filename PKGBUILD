@@ -12,6 +12,7 @@ pkgname=$_linuxprefix-acpi_call
 _pkgname=acpi_call
 pkgver=1.1.0
 pkgrel=18
+_CLEARERrel=12
 pkgdesc='A linux kernel module that enables calls to ACPI methods through /proc/acpi/call'
 arch=('i686' 'x86_64')
 url="http://github.com/mkottman/acpi_call"
